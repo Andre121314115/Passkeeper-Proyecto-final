@@ -7,6 +7,6 @@ El objetivo de este proyecto es crear una aplicación de gestión de contraseña
 ## Integrantes del Equipo
 -Albornoz Quiliano Jose Antonio
 -Cajamalqui Davila Josemaria Piero
--Carbajal Paccori Brayan Erick
+-Carbajal Paccori ,Brayan Erick
 -De La Torre Segura, Andre
--Veliz de la Cruz Carlos Adrian
+-Veliz de la Cruz, Carlos Adrian
